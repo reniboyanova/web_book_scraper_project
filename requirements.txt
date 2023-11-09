@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+pygsheets~=2.0.6
+pandas~=2.1.1
